@@ -6,7 +6,7 @@
 First go to picqer api setting in your wordpress settings tab. Then input your credentials and save.
 After saving press Fetch button to import your picqer data.
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ggmtg4b.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/16vz03n.png)
 
 After fetching your data you will find your Products in products page.
 
